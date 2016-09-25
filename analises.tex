@@ -100,9 +100,18 @@ Embora o autor já tivesse ideia da convergência das respostas para certos tema
 
 Foi considerado como premissa que todas as palavras de cada resposta não se repetem na mesma resposta - com exceção de palavras auxiliares, como artigos e pronomes - de tal forma que seria possível atribuir a linha de origem de cada palavra sem repetições.
 
-\subsubsection*{Tratamento dos dados - Geral}
+\subsubsection*{Tratamento dos dados}
 
-De forma a configurar o software 
+De forma a configurar o software a trabalhar em cima das respostas, foi feita uma extração dos dados da planilha no software \textit{Numbers} em um MacBook para o formato CSV, que é um arquivo de texto puro com quebras de linha e separação por vírgulas. Como o arquivo original, cada linha corresponde a uma resposta e cada elemento entre vírgulas corresponde a uma pergunta. Portanto para cada pergunta a ser analisada, são percorridas todas as linhas e só analisados os elementos correspondentes.
+
+Por se tratarem de todas as palavras da língua portuguesa, foi feito um trabalho manual e iterativo de descartar todas as palavras que não agregariam valor semântico esperado à frase, como pronomes, artigos, verbos auxiliares, conjunções e preposições. Foi uma opção não realizar uma integração com algum software ou \textit{Web API} de Língua Portuguesa pela necessidade e esforço em garantir a confiabilidade do mesmo, portanto a partir do próprio conhecimento do idioma foram feitas iterações e remoções de palavras indesejadas.
+
+Também foram eliminadas as palavras relativas à 'curso' e 'aula', pois todas as perguntas são direcionadas a como melhorar, motivar ou trazer novas coisas para o curso e para a aula, portanto foram consideradas redundantes para a análise.
+
+Por fim, foram removidos os espaços em excesso, pontuações e o emprego das aspas, pois estes atrapalhavam a contagem de palavras. 
+
+Estes ajustes foram realizados para todas as perguntas, e embora já possam ser considerados como um número razoável de modificações, também foram necessários alguns tratamentos particulares a cada uma das questões.
+
 
 \subsubsection*{\textit{Motivação}: Categorização e sub-categorização}
 
