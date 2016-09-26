@@ -110,9 +110,16 @@ Por se tratarem de todas as palavras da língua portuguesa, foi feito um trabalh
 
 Também foram eliminadas as palavras relativas à 'curso' e 'aula', pois todas as perguntas são direcionadas a como melhorar, motivar ou trazer novas coisas para o curso e para a aula, portanto foram consideradas redundantes para a análise.
 
-Por fim, foram removidos os espaços em excesso, pontuações e o emprego das aspas, pois estes atrapalhavam a contagem de palavras. 
+Outro tratamento realizado foi a remoção de espaços em excesso, pontuações e o emprego das aspas, pois estes atrapalhavam a contagem de palavras.
 
-Estes ajustes foram realizados para todas as perguntas, e embora já possam ser considerados como um número razoável de modificações, também foram necessários alguns tratamentos particulares a cada uma das questões.
+A partir dos tratamentos descritos e de outros específicos a cada questão, foi possível elaborar uma tabela como \textit{output} do software utilizado. A tabela representa uma contagem das principais palavras presentes nas respostas, acompanhadas de outras que aparecem em um mesmo contexto, e de um exemplo de respostas para ilustrar o uso das palavras de forma conjunta. O exemplo é obtido randomicamente através de uma busca por respostas que apresentem ambas as palavras. Para isso, foram adotadas algumas constantes para aplicação no software:
+
+\begin{itemize}
+\item Número mínimo de incidências para ser considerado na tabela: 1\% do número de respostas
+\item Número de palavras com sinergia que são exibidas: 3
+\end{itemize}
+
+Esses números foram definidos posteriormente, pois foram feitos alguns testes para identificar até onde poderia ser filtrado os dados para não perder nenhuma informação relevante. Essas constantes se apresentaram boas tanto de forma ilustrativa para o trabalho quanto para a categorização posteriormente feita das palavras.
 
 \subsubsection*{Tratamento dos dados: \textit{Motivação}}
 
@@ -145,9 +152,16 @@ Por fim, palavras com mesmo nível semântico:
 
 \includepdf[pages=-, pagecommand={}]{Pergunta1.pdf}
 
-\subsubsection*{\textit{Motivação}: Categorização e sub-categorização}
+\subsubsection*{Categorização e sub-categorização - \textit{Motivação}}
 
+Após analisar a incidência de palavras, foi possível observar a partir dos exemplos uma ambiguidade promovidos pela pergunta em questão. A interpretação correta dessa pergunta seria "quais foram os pontos do curso que você achou mais interessante / relevante?", porém a maior parte das respostas aparentemente a interpretou como "o que o motivou a fazer o curso?". Isso gerou uma séria de respostas relacionadas ao próprio tema do curso, como "interesse por desenvolvimento android e SDK da samsung". Dado que o tem mais recorrente de apresentação do curso chama-se "Introdução ao Desenvolvimento de Aplicativos Android \& Samsung SDK", acaba-se por ter respostas redundantes. Também ocorreram respostas inerentes ao contexto de mercado de trabalho envolvendo programação, o que também foge do objetivo proposto por essa pergunta. Foi passado para a Samsung uma proposta de reformulação dessa pergunta, baseada em como deseja-se utilizar essa informação posteriormente.
 
+Entretanto, ainda foi possível extrair algumas informações a respeito de pontos elogiados do curso, como:
+
+\begin{itemize}
+\item A ocorrência de 'professor' e 'dinâmica' indicaram a aceitação pelos alunos do modelo proposto pelo curso, e elencaram estes como um fator motivador.
+\item A palavra 'prática' indica que os alunos gostaram da parte prática dos cursos, que indiretamente deve contribuir com a dinâmica elogiada no item anterior.
+\end{itemize}
 
 \subsubsection*{Tratamento dos dados: \textit{Melhorias}}
 
@@ -162,6 +176,18 @@ Em relação à flexão gramatical de número e gênero e semântica, foram agru
 
 \includepdf[pages=-, pagecommand={}]{Pergunta2.pdf}
 
+\subsubsection*{Categorização e sub-categorização - \textit{Melhorias}}
+
+Diferentemente da questão anterior, esse item é compreendido muito melhor pelos alunos, e as respostas tornam-se muito mais objetivas. A recorrência já mostra de imediato três pontos a serem melhorados, a duração do curso, problemas com o material de apoio e a inclusão de mais modalidades práticas dentro da aula. Esses problemas, de forma conjunta, correspondem a cerca de 40\% das respostas analisadas.
+
+A duração do curso se mostra um grande problema, se mostrando incidente através das palavras 'tempo', 'duração' e 'carga horária', essa última com as duas palavras aparecendo na tabela.
+
+Os problemas com o material de apoio também se mostra recorrente através da expressão 'material de apoio', 'conteúdo', 'slides', 'slides' e 'apresentação'. A maior parte se associa com as palavras 'disponibilizar' e 'disponibilização', indicando que o material utilizado não é entregue para os alunos.
+
+A recorrência de termos ligados à prática indica que há uma necessidade de aumentar a parte prática no programa diante da teórica. Aliada essa informação à questão da carga horária, deve ser desejável que se for possível aumentar o tempo de curso, que ele aumenta em termos práticos e não teóricos.
+
+Em menor volume (menos de 5\% cada), aparecem questões como maior flexibilização do horário ou disponibilidade de horários, através das palavra 'horário' e 'dias', e problemas com equipamentos no laboratório.
+
 \subsubsection*{Tratamento dos dados: \textit{Novidades}}
 
 Em relação à flexão gramatical de número e gênero e semântica, foram agrupadas as seguintes palavras
@@ -175,137 +201,11 @@ Em relação à flexão gramatical de número e gênero e semântica, foram agru
 
 \includepdf[pages=-, pagecommand={}]{Pergunta3.pdf}
 
-\subsubsection*{\textit{Motivação}: Categorização e sub-categorização}
+\subsubsection*{Categorização e sub-categorização - \textit{Novidades}}
 
-Cada uma das perguntas gerou uma lista de palavras ordenadas pelo número de incidências nas respostas.
+Em primeira instância, é possível visualizar uma grande demanda de alunos por aulas específicas para o desenvolvimento de jogos. É de grande relevância que esta questão é a de escopo mais aberto das três, portanto a grande recorrência do termo 'jogo' nesse contexto é bastante relevante. Além de jogos, existe uma demanda pela aplicação de android em outros casos de uso, como aplicativos ou uma exploração mais avançada do sistema operacional. 
 
-
-Em relação à pergunta "O que você acha que pode ser melhorado?":
-
-\begin{figure}[H]
-\caption{Quadro de palavras-chave : "O que você acha que pode ser melhorado?"}
-\centerline{\includegraphics[scale=0.75]{img/melhoriastopn}}
-\label{fig:melhoriastopn}
-\caption* {Fonte: Elaborado pelo próprio autor}
-\end{figure}
-
-A princípio, foi possível encontrar uma associação entre as palavras 'tempo', 'duração' e 'horas', confirmada pelos seguintes comentários:
-
-\begin{itemize}
-\item "\textit{Aumentar o tempo em pelo menos 30 min.}"
-\item "\textit{Duração para detalhar melhor o conteudo.}"
-\item "\textit{Poderia ser mais horas e máquinas melhores.}"
-\end{itemize}
-
-Outra associação pôde ser encontrada em 'disponibilizar', 'disponibilização' e 'disponibilizado' com 'material', 'slides' e 'conteúdo'
-
-\begin{itemize}
-\item "\textit{Disposição da tela de posição. Disponibilizar o conteúdo no notebook.}"
-\item "\textit{Disponibilizar material com conteúdo do curso.}"
-\item "\textit{Disponibilização do material usado em aula(Slides)}"
-\end{itemize}
-
-A palavra 'prática' e suas variações, dentro do contexto de cursos, já supõe críticas em relação a muito ou pouco foco na parte prática diante da teórica dentro do curso, sendo nesse contexto o último caso.
-
-\begin{itemize}
-\item "\textit{Menos teoria, mais prática.}"
-\item "\textit{Mais prática. Foi muito teórico.}"
-\item "\textit{Maior interação, prática desde o início.}"
-\end{itemize}
-
-A palavra 'horário' e suas variações também já predispõem pedidos por maior disponibilidade de horário.
-
-\begin{itemize}
-\item "\textit{A localização do curso e o horário,(No caso, a aula poderia começar no período da manhã).}"
-\item "\textit{Horário bate com aula à tarde.}"
-\item "\textit{Colocar os cursos da noite no horário da tarde também.}"
-\end{itemize}
-
-Já a palavra 'dinâmica' prevê certa insatisfação em relação à dinâmica proposta pelo curso.
-
-\begin{itemize}
-\item "\textit{A apresentação poderia ser mais dinâmica, foi quase a aula toda anterior e repetitiva.}"
-\item "\textit{Dinâmica mais palestra maçante e cansativa, até mesmo na parte de interação com o público.}"
-\item "\textit{Dinâmica entre instrutor e aluno.}"
-\end{itemize}
-
-Somado os dados anteriores ao fato de 40\% das respostas estarem em branco, podemos gerar a seguinte tabela através do agrupamento de palavras em categorias:
-
-\begin{figure}[H]
-\caption{Principais Problemas : "O que você acha que pode ser melhorado?"}
-\centerline{\includegraphics[scale=0.75]{img/melhoriasfinaltable}}
-\label{fig:melhoriasfinaltable}
-\caption* {Fonte: Elaborado pelo próprio autor}
-\end{figure}
-
-Sobre a pergunta "O que mais o motivou nesse curso?":
-
-\begin{figure}[H]
-\caption{Quadro de palavras-chave : "O que mais o motivou nesse curso?"}
-\centerline{\includegraphics[scale=0.75]{img/motivacaotopn}}
-\label{fig:motivacaotopn}
-\caption* {Fonte: Elaborado pelo próprio autor}
-\end{figure}
-
-No caso dessa pergunta, o escopo já é muito mais fechado se comparado à pergunta anterior. De forma geral as palavras já sugerem um intuito de expansão do conhecimento dos cursistas seguindo a proposta dos cursos, através das palavras 'aprender', 'conhecimento', 'conhecer', 'interesse'.
-
-\begin{itemize}
-\item "\textit{Aprender mais sobre o ambiente de desenvolvimento para criar apps mais complexos.}"
-\item "\textit{Aprofundar os conhecimentos em desenvolvimento de aplicações.}"
-\item "\textit{Interesse na área e gosto por programação.}"
-\end{itemize}
-
-Essas palavras entram em sintonia com 'android' e 'samsung' como objetos de estudo, sendo que o primeiro aparece em 10\% das respostas, e o segundo em aproximadamente 3\% das respostas. 
-
-\begin{itemize}
-\item "\textit{Possibilidade de criar na plataforma android.}"
-\item "\textit{Aprender a estrutura do ambiente de desenvolvimento android(SDK).}"
-\item "\textit{Meu interesse em desenvolver aplicativos para aparelhos android.}"
-\item "\textit{A iniciativa da própria samsung em atender idealizadores de startup}"
-\end{itemize}
-
-
-Sobre a pergunta "Qual tema você gostaria que fosse abordado num próximo curso?":
-
-\begin{figure}[H]
-\caption{Quadro de palavras-chave : "Qual tema você gostaria que fosse abordado num próximo curso?"}
-\centerline{\includegraphics[scale=0.75]{img/temastopn}}
-\label{fig:temastopn}
-\caption* {Fonte: Elaborado pelo próprio autor}
-\end{figure}
-
-Essa pergunta gerou uma amplitude maior de respostas devido ao seu caráter aberto. Entretanto o significado das palavras é muito mais objetivo, muitas já respondendo a pergunta inicial.
-
-A alta incidência de 'android' - mesmo esse já sendo o tema em pauta do curso - indica que os cursistas gostariam de um nível mais avançado do sistema operacional.
-
-\begin{itemize}
-\item "\textit{Android - Continuação.}"
-\item "\textit{Desenvolvimento Android avançado.}"
-\item "\textit{Desenvolvimento Android(PróximoNível).}"
-\end{itemize}
-
-O desenvolvimento mais específico de 'aplicativos' e 'jogos' / 'games' também é solicitado.
-
-\begin{itemize}
-\item "\textit{Criação de aplicativos de entretenimento.}"
-\item "\textit{Como desenvolver um app funcional.}"
-\item "\textit{Desenvolvimento de jogos.}"
-\end{itemize}
-
-Também houve a necessidade de entender com mais profundidade a utilização de bancos de dados.
-
-\begin{itemize}
-\item "\textit{Integração com o banco de dados.}"
-\item "\textit{Banco de dados avançado.}"
-\item "\textit{Conexão com banco de dados.}"
-\end{itemize}
-
-\begin{figure}[H]
-\caption{Novos Temas : "Qual tema você gostaria que fosse abordado no próximo curso?"}
-\centerline{\includegraphics[scale=0.75]{img/temasfinaltable}}
-\label{fig:temasfinaltable}
-\caption* {Fonte: Elaborado pelo próprio autor}
-\end{figure}
+Em menor volume porém com uma maior gama de opções, existe uma demanda por uma exploração de bancos de dados, tizen, maior exploração do sdk da samsung e outras tecnologias, linguagem de desenvolvimento java, design e user experience, desenvolvimento web, web services, e unity. 
 
 \begin{figure}[h]
 \caption{Análise do Ocean - Cursistas}
