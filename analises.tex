@@ -98,6 +98,8 @@ Conforme foi ressaltado, a leitura flutuante foi o principal elemento da pré-ex
 
 Embora o autor já tivesse ideia da convergência das respostas para certos temas devido às observações obtidas na fase de pré-exploração, não saberia ainda descrever quais seriam os temas principais, e muito menos quantificá-los por número de incidências. Portanto, de forma a tentar atribuir as principais categorias, foi decidido analisar o número de incidências de cada palavra em todas as respostas, por se tratarem de textos curtos e informais.
 
+Após uma análise inicial, observou-se que muitas palavras tinham sinergia entre si e apresentavam-se dentro de um mesmo contexto. Portanto também foram mapeadas todas as palavras que aparecem em uma mesma frase que outro palavra. Dessa forma é possível observar as palavras que aparecem em um mesmo contexto, e logo, possuem bastante sinergia entre si.
+
 Foi considerado como premissa que todas as palavras de cada resposta não se repetem na mesma resposta - com exceção de palavras auxiliares, como artigos e pronomes - de tal forma que seria possível atribuir a linha de origem de cada palavra sem repetições.
 
 \subsubsection*{Tratamento dos dados}
@@ -112,6 +114,66 @@ Por fim, foram removidos os espaços em excesso, pontuações e o emprego das as
 
 Estes ajustes foram realizados para todas as perguntas, e embora já possam ser considerados como um número razoável de modificações, também foram necessários alguns tratamentos particulares a cada uma das questões.
 
+\subsubsection*{Tratamento dos dados: \textit{Motivação}}
+
+Novamente, como não há integração com um dicionário de Língua Portuguesa, foi possível de fazer agrupamentos de palavras qeu se encontravam em um mesmo contexto, comprovado pelas sinergia com as mesmas palavras ou similares. 
+
+Foi possível agrupar posteriormente palavras que se apresentavam em diferentes flexões gramaticais de número, como: 
+
+\begin{itemize}
+\item 'conhecimento' e 'conhecimentos'
+\item 'tecnologia' e 'tecnologias' 
+\item 'novas' e 'nova' 
+\item 'ferramenta' e 'ferramentas' 
+\item 'novos' e 'novo' 
+\item 'apps' e 'app'
+\item 'aplicativos' e 'aplicativo'
+\end{itemize}
+
+Também foram agrupadas palavras com flexões gramaticais de gênero:
+
+\begin{itemize}
+\item 'novas' e 'novos'
+\end{itemize}
+
+Por fim, palavras com mesmo nível semântico:
+
+\begin{itemize}
+\item 'app' e 'aplicativo'
+\item 'instrutor' e 'professor'
+\end{itemize}
+
+\includepdf[pages=-, pagecommand={}]{Pergunta1.pdf}
+
+\subsubsection*{\textit{Motivação}: Categorização e sub-categorização}
+
+
+
+\subsubsection*{Tratamento dos dados: \textit{Melhorias}}
+
+Em relação à flexão gramatical de número e gênero e semântica, foram agrupadas as seguintes palavras
+
+\begin{itemize}
+\item 'práticas', 'práticos', 'prático' e 'prática'
+\item 'professor', 'instrutor', 'instrutores' e 'professores'
+\item 'conhecimento' e 'conhecimentos'
+\item 'app', 'apps', 'aplicativo' e 'aplicativos'
+\end{itemize}
+
+\includepdf[pages=-, pagecommand={}]{Pergunta2.pdf}
+
+\subsubsection*{Tratamento dos dados: \textit{Novidades}}
+
+Em relação à flexão gramatical de número e gênero e semântica, foram agrupadas as seguintes palavras
+
+\begin{itemize}
+\item 'jogos', 'jogo', 'game' e 'games'
+\item 'aprofundar' e 'aprofundamento'
+\item 'práticas', 'práticos', 'prático' e 'prática'
+\item 'app', 'apps', 'aplicativo' e 'aplicativos'
+\end{itemize}
+
+\includepdf[pages=-, pagecommand={}]{Pergunta3.pdf}
 
 \subsubsection*{\textit{Motivação}: Categorização e sub-categorização}
 
