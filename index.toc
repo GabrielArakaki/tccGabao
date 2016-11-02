@@ -1,0 +1,64 @@
+\changetocdepth {4}
+\select@language {brazil}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{19}{chapter.1}
+\contentsline {section}{\numberline {1.1}Objeto de Estudo}{19}{section.1.1}
+\contentsline {section}{\numberline {1.2}Justificativa}{20}{section.1.2}
+\contentsline {section}{\numberline {1.3}Objetivos}{21}{section.1.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Revis\IeC {\~a}o Bibliogr\IeC {\'a}fica}}{23}{chapter.2}
+\contentsline {section}{\numberline {2.1}Parceria Universidade-Empresa}{23}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}A universidade empreendedora}{23}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Modelo Tripla H\IeC {\'e}lice}{26}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Contexto jur\IeC {\'\i }dico-legal para parceria universidade-empresa}{29}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}A intera\IeC {\c c}\IeC {\~a}o universidade-empresa}{29}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Desafios da gest\IeC {\~a}o universidade-empresa}{29}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}\textit {Benchmarking} de parcerias universidade-empresa:}{30}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}TECNOPUC}{31}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Porto Digital}{33}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}\textit {Deutsche Telekom - T-labs}}{35}{subsection.2.2.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Metodologia}}{39}{chapter.3}
+\contentsline {section}{\numberline {3.1}Objeto de Estudo}{39}{section.3.1}
+\contentsline {section}{\numberline {3.2}An\IeC {\'a}lises Utilizadas}{41}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}An\IeC {\'a}lise de Conte\IeC {\'u}do}{41}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}An\IeC {\'a}lise SWOT}{43}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}M\IeC {\'e}todo}{44}{section.3.3}
+\contentsline {section}{\numberline {3.4}Identifica\IeC {\c c}\IeC {\~a}o de Stakeholders do Laborat\IeC {\'o}rio}{46}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}PRO}{47}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}NEU}{49}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Alunos}{50}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Cursistas}{51}{subsection.3.4.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Analises}}{55}{chapter.4}
+\contentsline {section}{\numberline {4.1}Samsung}{55}{section.4.1}
+\contentsline {section}{\numberline {4.2}PRO}{57}{section.4.2}
+\contentsline {section}{\numberline {4.3}NEU}{59}{section.4.3}
+\contentsline {section}{\numberline {4.4}Alunos}{60}{section.4.4}
+\contentsline {section}{\numberline {4.5}Cursistas}{62}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Cursos B\IeC {\'a}sicos}{62}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Cursos Intensivos}{83}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}An\IeC {\'a}lise Geral}{86}{subsection.4.5.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Propostas}}{89}{chapter.5}
+\contentsline {section}{\numberline {5.1}An\IeC {\'a}lise das oportunidades, fraquezas e amea\IeC {\c c}as}{89}{section.5.1}
+\contentsline {section}{\numberline {5.2}Explora\IeC {\c c}\IeC {\~a}o dos pontos priorit\IeC {\'a}rios}{92}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Maior participa\IeC {\c c}\IeC {\~a}o de professores nos cursos}{92}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Maior acesso aos outros institutos da universidade}{94}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Permitir um ambiente de \textit {coworking}, com mais colabora\IeC {\c c}\IeC {\~a}o}{95}{subsection.5.2.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Conclus\IeC {\~a}o}}{99}{chapter.6}
+\contentsline {section}{\numberline {6.1}Discuss\IeC {\~a}o}{99}{section.6.1}
+\contentsline {section}{\numberline {6.2}Trabalhos futuros}{99}{section.6.2}
+\vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{101}{section*.50}
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Question\IeC {\'a}rios}}{103}{appendix.A}

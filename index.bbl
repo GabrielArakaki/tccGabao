@@ -1,0 +1,120 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.5 }
+
+\bibitem[Bardin 2011]{bardin}
+\abntrefinfo{Bardin}{BARDIN}{2011}
+{BARDIN, L. \emph{Análise de Conteúdo}. [S.l.]: EDIÇOES 70 - BRASIL, 2011.}
+
+\bibitem[Bureau of Labor Statistics 2015]{bls}
+\abntrefinfo{Bureau of Labor Statistics}{BUREAU OF LABOR STATISTICS}{2015}
+{BUREAU OF LABOR STATISTICS. \emph{Occupational Outlook Handbook, 2016-17
+  Edition}. 2015.
+Dispon{\'\i}vel em:
+  \url{http://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm}.}
+
+\bibitem[Clark 2006]{burton}
+\abntrefinfo{Clark}{CLARK}{2006}
+{CLARK, B. Pursuing the entrepreneurial university. In:  \emph{Inovação e
+  empreendedorismo na universidade}. [S.l.]: EDIPUCRS, 2006. cap.~1.}
+
+\bibitem[Dierdonick e Debackere 1998]{barriers}
+\abntrefinfo{Dierdonick e Debackere}{DIERDONICK; DEBACKERE}{1998}
+{DIERDONICK, R.~V.; DEBACKERE, K. Academic entrepreneurship at belgium
+  universities.
+\emph{R \& D Management}, v.~18, n.~4, p.~341, 1998.}
+
+\bibitem[Etzkowitz 1998]{etzkowitz1998}
+\abntrefinfo{Etzkowitz}{ETZKOWITZ}{1998}
+{ETZKOWITZ, H. The norm of entrepreneurial science: cognitive effects of the
+  new university-industry linkages.
+\emph{Research Policy}, v.~27, p. 823--833, 1998.}
+
+\bibitem[Etzkowitz 2001]{etzkowitz2001}
+\abntrefinfo{Etzkowitz}{ETZKOWITZ}{2001}
+{ETZKOWITZ, H. The second academic revolution and the rise of entrepreneurial
+  science.
+\emph{Technology and Society Magazine}, IEEE, p. 19--29, 2001.}
+
+\bibitem[Etzkowitz e Leydesdorff 2000]{etzkowitz2000}
+\abntrefinfo{Etzkowitz e Leydesdorff}{ETZKOWITZ; LEYDESDORFF}{2000}
+{ETZKOWITZ, H.; LEYDESDORFF, L. The dynamics of innovation: from national
+  systems and "mode 2" to a triple helix of university-industry-government
+  relations.
+\emph{Research Policy}, v.~29, p. 109--123, 2000.}
+
+\bibitem[Ferreira, Soria e Closs 2012]{tecnopuc}
+\abntrefinfo{Ferreira, Soria e Closs}{FERREIRA; SORIA; CLOSS}{2012}
+{FERREIRA, G.~C.; SORIA, A.~F.; CLOSS, L. Gestão da interação
+  universidade-empresa: o caso pucrs.
+\emph{Revista Sociedade e Estado}, v.~27, n.~1, p. 79--94, 2012.}
+
+\bibitem[Garcia et al. 2012]{empreendedorismo}
+\abntrefinfo{Garcia et al.}{GARCIA et al.}{2012}
+{GARCIA, R. et al. Empreendedorismo acadêmico no brasil: uma avaliação á
+  criação de empresas por alunos universitários.
+\emph{Revista de Empreendedorismo e Gestão de Pequenas Empresas}, v.~1, n.~3,
+  2012.}
+
+\bibitem[GEM - Global Entrepreneurship Monitor 2015]{GEM}
+\abntrefinfo{GEM - Global Entrepreneurship Monitor}{GEM - GLOBAL
+  ENTREPRENEURSHIP MONITOR}{2015}
+{GEM - GLOBAL ENTREPRENEURSHIP MONITOR. \emph{Empreendedorismo no Brasil -
+  2015}.
+[S.l.], 2015.}
+
+\bibitem[IDC Brasil 2016]{idc}
+\abntrefinfo{IDC Brasil}{IDC BRASIL}{2016}
+{IDC BRASIL. \emph{Previsão da IDC para o mercado de TIC no Brasil em 2016
+  aponta crescimento de 2,6\%}. 2016.
+Dispon{\'\i}vel em: \url{http://br.idclatin.com/releases/news.aspx?id=1970}.}
+
+\bibitem[Jamison, Kolmos e Holgaard 2014]{jeeModels}
+\abntrefinfo{Jamison, Kolmos e Holgaard}{JAMISON; KOLMOS; HOLGAARD}{2014}
+{JAMISON, A.; KOLMOS, A.; HOLGAARD, J.~E. Hybrid learning: An integrative
+  approach to engineering education.
+\emph{Journal of Engineering Education}, ASEE, v.~103, n.~2, p. 253--273,
+  2014.}
+
+\bibitem[Meirelles 2016]{tifgv}
+\abntrefinfo{Meirelles}{MEIRELLES}{2016}
+{MEIRELLES, F.~S. \emph{27\textsuperscript{a} Pesquisa Anual do Uso de TI}.
+[S.l.], 2016.}
+
+\bibitem[Plonski 1999]{plonsky}
+\abntrefinfo{Plonski}{PLONSKI}{1999}
+{PLONSKI, G.~A. Cooperação universidade-empresa: um desafio gerencial
+  complexo.
+\emph{Revista de Administração}, v.~34, n.~4, p. 5--12, 1999.}
+
+\bibitem[Porto Digital 2008]{portodigital}
+\abntrefinfo{Porto Digital}{PORTO DIGITAL}{2008}
+{PORTO DIGITAL. \emph{APL de Tecnologia da Informação e Comunicação Porto
+  Digital}.
+[S.l.], 2008.}
+
+\bibitem[Rohrbeck e Arnold 2006]{dtlabs}
+\abntrefinfo{Rohrbeck e Arnold}{ROHRBECK; ARNOLD}{2006}
+{ROHRBECK, R.; ARNOLD, H.~M. Making university-industry collaboration work - a
+  case study on the deutsche telekom laboratories contrasted with findings in
+  literature. In:  THE INTERNATIONAL SOCIETY FOR PROFESSIONAL INNOVATION
+  MANAGEMENT CONFERENCE. \emph{Networks for Innovation}. [S.l.], 2006.}
+
+\bibitem[Täks et al. 2014]{entrepreneurship}
+\abntrefinfo{Täks et al.}{TäKS et al.}{2014}
+{TäKS, M. et al. Engineering student's experiences in studying
+  entrepreneurship.
+\emph{Journal of Engineering Education}, ASEE, v.~103, n.~4, p. 573--598,
+  2014.}
+
+\bibitem[Vedovello, Judice e Maculan 2006]{parquestecnologicos}
+\abntrefinfo{Vedovello, Judice e Maculan}{VEDOVELLO; JUDICE; MACULAN}{2006}
+{VEDOVELLO, C.~A.; JUDICE, V. M.~M.; MACULAN, A.-M.~D. Revisão crítica às
+  abordagens a parques tecnológicos: alternativas interpretativas às
+  experiências brasileiras recentes.
+\emph{Revista de Administração e Inovação}, v.~3, n.~2, p. 103--118, 2006.}
+
+\end{thebibliography}
