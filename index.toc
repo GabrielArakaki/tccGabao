@@ -15,8 +15,7 @@
 \contentsline {subsection}{\numberline {2.1.1}A universidade empreendedora}{23}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}Modelo Tripla H\IeC {\'e}lice}{26}{subsection.2.1.2}
 \contentsline {subsection}{\numberline {2.1.3}Contexto jur\IeC {\'\i }dico-legal para parceria universidade-empresa}{29}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}A intera\IeC {\c c}\IeC {\~a}o universidade-empresa}{29}{subsection.2.1.4}
-\contentsline {subsection}{\numberline {2.1.5}Desafios da gest\IeC {\~a}o universidade-empresa}{29}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.4}Desafios da gest\IeC {\~a}o universidade-empresa}{29}{subsection.2.1.4}
 \contentsline {section}{\numberline {2.2}\textit {Benchmarking} de parcerias universidade-empresa:}{30}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}TECNOPUC}{31}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}Porto Digital}{33}{subsection.2.2.2}

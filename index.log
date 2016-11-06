@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.2)  5 NOV 2016 20:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.2)  6 NOV 2016 02:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -899,6 +899,30 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2015/04/15 v5.1e context-sensitive quotations (JAW)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/05/04 v2.2 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count172
+)
+\csq@reset=\count173
+\csq@gtype=\count174
+\csq@glevel=\count175
+\csq@qlevel=\count176
+\csq@maxlvl=\count177
+\csq@tshold=\count178
+\csq@ltx@everypar=\toks28
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2015/04/15 v5.1e csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
@@ -915,28 +939,28 @@ Package: eso-pic 2015/04/20 v2.0e eso-pic (RN)
 File: pppdftex.def 2015/05/11 v0.4x Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box30
-\AM@toc@title=\toks28
-\c@AM@survey=\count172
+\AM@toc@title=\toks29
+\c@AM@survey=\count179
 \AM@templatesizebox=\box31
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count173
+\lst@mode=\count180
 \lst@gtempboxa=\box32
-\lst@token=\toks29
-\lst@length=\count174
+\lst@token=\toks30
+\lst@length=\count181
 \lst@currlwidth=\dimen162
-\lst@column=\count175
-\lst@pos=\count176
+\lst@column=\count182
+\lst@pos=\count183
 \lst@lostspace=\dimen163
 \lst@width=\dimen164
-\lst@newlines=\count177
-\lst@lineno=\count178
+\lst@newlines=\count184
+\lst@lineno=\count185
 \lst@maxwidth=\dimen165
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
-\c@lstnumber=\count179
-\lst@skipnumbers=\count180
+\c@lstnumber=\count186
+\lst@skipnumbers=\count187
 \lst@framebox=\box33
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
@@ -964,7 +988,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 \caption@parindent=\dimen171
 \caption@hangindent=\dimen172
 )
-\c@ContinuedFloat=\count181
+\c@ContinuedFloat=\count188
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 )
@@ -980,8 +1004,8 @@ Package: abntex2cite 2015/04/28 v1.9.5 abnTeX2
 (/usr/local/texlive/2015/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
 \minimumbiblabelwidth=\skip203
 \ABCIauxlen=\skip204
-\c@ABCIaux=\count182
-\c@ABCImax=\count183
+\c@ABCIaux=\count189
+\c@ABCImax=\count190
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
@@ -989,7 +1013,7 @@ Package: relsize 2013/03/29 ver 4.1
 \biblabelsep=\skip205
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks30
+\ABCItoken=\toks31
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/morefloats/morefloats.sty
 Package: morefloats 2012/01/28 v1.0f Raise limit of unprocessed floats (HMM; DH
@@ -1023,10 +1047,10 @@ Package morefloats Info: Maximum number of possible floats asked for: 40.
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count184
-\float@exts=\toks31
+\c@float@type=\count191
+\float@exts=\toks32
 \float@box=\box34
-\@float@everytoks=\toks32
+\@float@everytoks=\toks33
 \@floatcapt=\box35
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
@@ -1039,7 +1063,7 @@ Package: amstext 2000/06/29 v2.01
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks33
+\@emptytoks=\toks34
 \ex@=\dimen173
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -1049,13 +1073,13 @@ Package: amsbsy 1999/11/29 v1.2d
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count185
+\inf@bad=\count192
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count186
-\leftroot@=\count187
+\uproot@=\count193
+\leftroot@=\count194
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count188
-\DOTSCASE@=\count189
+\classnum@=\count195
+\DOTSCASE@=\count196
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
@@ -1064,27 +1088,27 @@ LaTeX Info: Redefining \cdots on input line 466.
 \big@size=\dimen175
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count190
-\c@MaxMatrixCols=\count191
+\macc@depth=\count197
+\c@MaxMatrixCols=\count198
 \dotsspace@=\muskip11
-\c@parentequation=\count192
-\dspbrk@lvl=\count193
-\tag@help=\toks34
-\row@=\count194
-\column@=\count195
-\maxfields@=\count196
-\andhelp@=\toks35
+\c@parentequation=\count199
+\dspbrk@lvl=\count200
+\tag@help=\toks35
+\row@=\count201
+\column@=\count202
+\maxfields@=\count203
+\andhelp@=\toks36
 \eqnshift@=\dimen176
 \alignsep@=\dimen177
 \tagshift@=\dimen178
 \tagwidth@=\dimen179
 \totwidth@=\dimen180
 \lineht@=\dimen181
-\@envbody=\toks36
+\@envbody=\toks37
 Normal \skip register pool exhausted, switching to extended pool.
 \multlinegap=\skip256
 \multlinetaggap=\skip257
-\mathdisplay@stack=\toks37
+\mathdisplay@stack=\toks38
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
@@ -1112,13 +1136,17 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-Package color Info: Redefining color blue on input line 170.
-Package hyperref Info: Option `colorlinks' set `true' on input line 186.
+Package color Info: Redefining color blue on input line 171.
+Package hyperref Info: Option `colorlinks' set `true' on input line 187.
 \index@idxfile=\write4
 \openout4 = `index.idx'.
 
 
 Writing index file index.idx 
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'brazil'.
 (./index.aux
 
 LaTeX Warning: Label `cha:univ_empreend' multiply defined.
@@ -1129,26 +1157,26 @@ LaTeX Warning: Label `cha:univ_empreend' multiply defined.
 )
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 209.
-LaTeX Font Info:    ... okay on input line 209.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 209.
-LaTeX Font Info:    ... okay on input line 209.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 209.
-LaTeX Font Info:    ... okay on input line 209.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 209.
-LaTeX Font Info:    ... okay on input line 209.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 209.
-LaTeX Font Info:    ... okay on input line 209.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 209.
-LaTeX Font Info:    ... okay on input line 209.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 209.
-LaTeX Font Info:    ... okay on input line 209.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 209.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 210.
+LaTeX Font Info:    ... okay on input line 210.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 210.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 \AtBeginShipoutBox=\box38
-Package hyperref Info: Link coloring ON on input line 209.
+Package hyperref Info: Link coloring ON on input line 210.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1156,35 +1184,36 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count197
+\c@section@level=\count204
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 209.
-LaTeX Info: Redefining \ref on input line 209.
-LaTeX Info: Redefining \pageref on input line 209.
-LaTeX Info: Redefining \nameref on input line 209.
-LaTeX Info: Redefining \degres on input line 209.
-LaTeX Info: Redefining \dots on input line 209.
-LaTeX Info: Redefining \up on input line 209.
+LaTeX Info: Redefining \nameref on input line 210.
+LaTeX Info: Redefining \ref on input line 210.
+LaTeX Info: Redefining \pageref on input line 210.
+LaTeX Info: Redefining \nameref on input line 210.
+LaTeX Info: Redefining \degres on input line 210.
+LaTeX Info: Redefining \dots on input line 210.
+LaTeX Info: Redefining \up on input line 210.
 \myptabbox=\box39
 \myptabboxwidth=\skip258
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 209.
+(lastpage)             ! on input line 210.
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count198
+\scratchcounter=\count205
 \scratchdimen=\dimen183
 \scratchbox=\box40
-\nofMPsegments=\count199
-\nofMParguments=\count200
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count201
+\nofMPsegments=\count206
+Normal \count register pool exhausted, switching to extended pool.
+\nofMParguments=\count277
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count278
 \MPscratchDim=\dimen184
-\MPnumerator=\count202
-\makeMPintoPDFobject=\count203
-\everyMPtoPDFconversion=\toks39
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
+\everyMPtoPDFconversion=\toks40
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1200,7 +1229,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 209.
+LaTeX Info: Redefining \microtypecontext on input line 210.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1215,11 +1244,11 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-\c@lstlisting=\count204
+\c@lstlisting=\count281
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for T1+qhv on input line 219.
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 220.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
@@ -1233,37 +1262,37 @@ Package microtype Info: Loading generic settings for font family
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 222.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 223.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 222.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 223.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 222
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 223
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 222
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 223
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 222.
+(Font)              <12> on input line 223.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 222.
+(Font)              <8> on input line 223.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 222.
-LaTeX Font Info:    Try loading font information for U+msa on input line 222.
+(Font)              <6> on input line 223.
+LaTeX Font Info:    Try loading font information for U+msa on input line 223.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1271,7 +1300,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 222.
+LaTeX Font Info:    Try loading font information for U+msb on input line 223.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1282,7 +1311,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.222 
+l.223 
        [1
 
 
@@ -1290,7 +1319,7 @@ l.222
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.222 
+l.223 
        [2
 
 ] [3
@@ -1299,36 +1328,36 @@ l.222
 File: fichacatalografica.pdf Graphic file (type pdf)
 
 <use fichacatalografica.pdf>
-Package pdftex.def Info: fichacatalografica.pdf used on input line 227.
+Package pdftex.def Info: fichacatalografica.pdf used on input line 228.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 File: fichacatalografica.pdf Graphic file (type pdf)
  <use fichacatalografica.pdf>
-Package pdftex.def Info: fichacatalografica.pdf used on input line 227.
+Package pdftex.def Info: fichacatalografica.pdf used on input line 228.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 
 <fichacatalografica.pdf, id=33, page=1, 597.51233pt x 845.0471pt>
 File: fichacatalografica.pdf Graphic file (type pdf)
 
 <use fichacatalografica.pdf, page 1>
-Package pdftex.def Info: fichacatalografica.pdf, page1 used on input line 227.
+Package pdftex.def Info: fichacatalografica.pdf, page1 used on input line 228.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
 File: fichacatalografica.pdf Graphic file (type pdf)
  <use fichacatalografica.pdf, page 1>
-Package pdftex.def Info: fichacatalografica.pdf, page1 used on input line 227.
+Package pdftex.def Info: fichacatalografica.pdf, page1 used on input line 228.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 File: fichacatalografica.pdf Graphic file (type pdf)
 
 <use fichacatalografica.pdf, page 1>
-Package pdftex.def Info: fichacatalografica.pdf, page1 used on input line 227.
+Package pdftex.def Info: fichacatalografica.pdf, page1 used on input line 228.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 File: fichacatalografica.pdf Graphic file (type pdf)
  <use fichacatalografica.pdf, page 1>
-Package pdftex.def Info: fichacatalografica.pdf, page1 used on input line 227.
+Package pdftex.def Info: fichacatalografica.pdf, page1 used on input line 228.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
 File: fichacatalografica.pdf Graphic file (type pdf)
 
 <use fichacatalografica.pdf, page 1>
-Package pdftex.def Info: fichacatalografica.pdf, page1 used on input line 227.
+Package pdftex.def Info: fichacatalografica.pdf, page1 used on input line 228.
 (pdftex.def)             Requested size: 597.53821pt x 845.08372pt.
  [4 <./fichacatalografica.pdf>]
 (./agradecimentos.tex [5
@@ -1354,12 +1383,12 @@ p, Con-tent Anal-y-sis, In-o-va-tion and En-trepreneur-
 
 ] (./index.toc
 [17]
-Overfull \hbox (1.41595pt too wide) detected at line 58
+Overfull \hbox (1.41595pt too wide) detected at line 57
  \T1/qhv/b/n/12 101
  []
 
 
-Overfull \hbox (1.41595pt too wide) detected at line 63
+Overfull \hbox (1.41595pt too wide) detected at line 62
  \T1/qhv/b/n/12 103
  []
 
@@ -1369,7 +1398,7 @@ Overfull \hbox (1.41595pt too wide) detected at line 63
 ] [20]) (./revisao.tex [21] [22
 
 ] [23]
-<img/academic_revolutions.png, id=294, 657.45625pt x 555.07375pt>
+<img/academic_revolutions.png, id=292, 657.45625pt x 555.07375pt>
 File: img/academic_revolutions.png Graphic file (type png)
 
 <use img/academic_revolutions.png>
@@ -1391,14 +1420,14 @@ Overfull \hbox (6.74773pt too wide) in paragraph at lines 55--55
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25 <./img/academic_revolutions.png>] [26]
-<img/triplehelix1.png, id=327, 493.845pt x 277.035pt>
+<img/triplehelix1.png, id=325, 493.845pt x 277.035pt>
 File: img/triplehelix1.png Graphic file (type png)
 
 <use img/triplehelix1.png>
 Package pdftex.def Info: img/triplehelix1.png used on input line 77.
 (pdftex.def)             Requested size: 246.92189pt x 138.51715pt.
 
-<img/triplehelix2.png, id=333, 336.25626pt x 313.17pt>
+<img/triplehelix2.png, id=331, 336.25626pt x 313.17pt>
 File: img/triplehelix2.png Graphic file (type png)
 
 <use img/triplehelix2.png>
@@ -1407,7 +1436,7 @@ Package pdftex.def Info: img/triplehelix2.png used on input line 86.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27 <./img/triplehelix1.png>] <img/triplehelix3.png, id=344, 431.6125pt x 311.
+ [27 <./img/triplehelix1.png>] <img/triplehelix3.png, id=342, 431.6125pt x 311.
 1625pt>
 File: img/triplehelix3.png Graphic file (type png)
 
@@ -1417,58 +1446,64 @@ Package pdftex.def Info: img/triplehelix3.png used on input line 96.
 
 Underfull \vbox (badness 2884) has occurred while \output is active []
 
- [28 <./img/triplehelix2.png> <./img/triplehelix3.png>] [29]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 124.
+ [28 <./img/triplehelix2.png> <./img/triplehelix3.png>]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 120.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 124.
- [30]
-<img/tecnopuc.png, id=369, 398.48875pt x 275.0275pt>
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 120.
+ [29] [30]
+<img/tecnopuc.png, id=367, 398.48875pt x 275.0275pt>
 File: img/tecnopuc.png Graphic file (type png)
  <use img/tecnopuc.png>
-Package pdftex.def Info: img/tecnopuc.png used on input line 155.
+Package pdftex.def Info: img/tecnopuc.png used on input line 151.
 (pdftex.def)             Requested size: 199.24388pt x 137.51341pt.
 
-Underfull \vbox (badness 8113) has occurred while \output is active []
-
- [31]
-[32 <./img/tecnopuc.png>]
-<img/estrategiasPD.png, id=383, 632.3625pt x 510.90875pt>
+[31 <./img/tecnopuc.png>] [32]
+<img/estrategiasPD.png, id=381, 632.3625pt x 510.90875pt>
 File: img/estrategiasPD.png Graphic file (type png)
 
 <use img/estrategiasPD.png>
-Package pdftex.def Info: img/estrategiasPD.png used on input line 206.
+Package pdftex.def Info: img/estrategiasPD.png used on input line 202.
 (pdftex.def)             Requested size: 316.18048pt x 255.45375pt.
- [33]
-<img/projetosPD.png, id=393, 712.6625pt x 643.40375pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33] <img/projetosPD.png, id=391, 712.6625pt x 643.40375pt>
 File: img/projetosPD.png Graphic file (type png)
 
 <use img/projetosPD.png>
-Package pdftex.def Info: img/projetosPD.png used on input line 221.
+Package pdftex.def Info: img/projetosPD.png used on input line 217.
 (pdftex.def)             Requested size: 356.33038pt x 321.70108pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[34 <./img/estrategiasPD.png>] [35 <./img/projetosPD.png>] [36])
-(./metodologia.tex [37] [38
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34 <./img/estrategiasPD.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35 <./img/projetosPD.png>] [36]) (./metodologia.tex [37] [38
 
 ] [39]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [40]
-[41] <img/fasesanalisedeconteudo.png, id=450, 758.835pt x 120.45pt>
+[41] <img/fasesanalisedeconteudo.png, id=448, 758.835pt x 120.45pt>
 File: img/fasesanalisedeconteudo.png Graphic file (type png)
 
 <use img/fasesanalisedeconteudo.png>
 Package pdftex.def Info: img/fasesanalisedeconteudo.png used on input line 49.
 (pdftex.def)             Requested size: 379.41658pt x 60.22484pt.
  [42 <./img/fasesanalisedeconteudo.png>]
-<img/detailedswot.png, id=461, 502.87875pt x 502.87875pt>
+<img/detailedswot.png, id=459, 502.87875pt x 502.87875pt>
 File: img/detailedswot.png Graphic file (type png)
 
 <use img/detailedswot.png>
@@ -1478,14 +1513,14 @@ Package pdftex.def Info: img/detailedswot.png used on input line 69.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [43]
-<img/metodologia.png, id=466, 738.76pt x 453.695pt>
+<img/metodologia.png, id=464, 738.76pt x 453.695pt>
 File: img/metodologia.png Graphic file (type png)
  <use img/metodologia.png>
 Package pdftex.def Info: img/metodologia.png used on input line 80.
 (pdftex.def)             Requested size: 369.37909pt x 226.84694pt.
 
 [44 <./img/detailedswot.png> <./img/metodologia.png>] [45]
-<img/stakeholders_v2.png, id=475, 893.3375pt x 411.5375pt>
+<img/stakeholders_v2.png, id=473, 893.3375pt x 411.5375pt>
 File: img/stakeholders_v2.png Graphic file (type png)
 
 <use img/stakeholders_v2.png>
@@ -1495,7 +1530,7 @@ Package pdftex.def Info: img/stakeholders_v2.png used on input line 113.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [46]
-<img/stakeholderspoc.png, id=480, 655.44875pt x 265.99374pt>
+<img/stakeholderspoc.png, id=478, 655.44875pt x 265.99374pt>
 File: img/stakeholderspoc.png Graphic file (type png)
 
 <use img/stakeholderspoc.png>
@@ -1514,7 +1549,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [52]
 [53] [54
 
-] [55] <img/samsungswot.png, id=544, 511.9125pt x 506.89375pt>
+] [55] <img/samsungswot.png, id=542, 511.9125pt x 506.89375pt>
 File: img/samsungswot.png Graphic file (type png)
 
 <use img/samsungswot.png>
@@ -1527,7 +1562,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [57]
-<img/proswot.png, id=553, 502.87875pt x 503.8825pt>
+<img/proswot.png, id=551, 502.87875pt x 503.8825pt>
 File: img/proswot.png Graphic file (type png)
  <use img/proswot.png>
 Package pdftex.def Info: img/proswot.png used on input line 44.
@@ -1535,7 +1570,7 @@ Package pdftex.def Info: img/proswot.png used on input line 44.
 
 Underfull \vbox (badness 4660) has occurred while \output is active []
 
- [58 <./img/proswot.png>] <img/neuswot.png, id=558, 500.87125pt x 502.87875pt>
+ [58 <./img/proswot.png>] <img/neuswot.png, id=556, 500.87125pt x 502.87875pt>
 File: img/neuswot.png Graphic file (type png)
 
 <use img/neuswot.png>
@@ -1547,7 +1582,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [59]
 Underfull \vbox (badness 1910) has occurred while \output is active []
 
- [60 <./img/neuswot.png>] <img/alunosswot.png, id=568, 498.86375pt x 499.8675pt
+ [60 <./img/neuswot.png>] <img/alunosswot.png, id=566, 498.86375pt x 499.8675pt
 >
 File: img/alunosswot.png Graphic file (type png)
 
@@ -1562,7 +1597,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 1460) has occurred while \output is active []
 
  [64]
-[65] <Pergunta1.pdf, id=601, 844.15375pt x 1194.4625pt>
+[65] <Pergunta1.pdf, id=599, 844.15375pt x 1194.4625pt>
 File: Pergunta1.pdf Graphic file (type pdf)
  <use Pergunta1.pdf>
 Package pdftex.def Info: Pergunta1.pdf used on input line 171.
@@ -1572,7 +1607,7 @@ File: Pergunta1.pdf Graphic file (type pdf)
 <use Pergunta1.pdf>
 Package pdftex.def Info: Pergunta1.pdf used on input line 171.
 (pdftex.def)             Requested size: 844.15169pt x 1194.45958pt.
- <Pergunta1.pdf, id=604, page=1, 844.15375pt x 1194.4625pt>
+ <Pergunta1.pdf, id=602, page=1, 844.15375pt x 1194.4625pt>
 File: Pergunta1.pdf Graphic file (type pdf)
 
 <use Pergunta1.pdf, page 1>
@@ -1592,7 +1627,7 @@ File: Pergunta1.pdf Graphic file (type pdf)
 Package pdftex.def Info: Pergunta1.pdf, page1 used on input line 171.
 (pdftex.def)             Requested size: 597.43413pt x 845.35864pt.
  [66]
-<Pergunta1.pdf, id=609, page=2, 844.15375pt x 1194.4625pt>
+<Pergunta1.pdf, id=607, page=2, 844.15375pt x 1194.4625pt>
 File: Pergunta1.pdf Graphic file (type pdf)
 
 <use Pergunta1.pdf, page 2>
@@ -1612,7 +1647,7 @@ Package pdftex.def Info: Pergunta1.pdf, page1 used on input line 171.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Pergunta1.pdf): PDF inclus
 ion: invalid other resource which is no dict (key 'ProcSets', type <array>); ig
 nored.
->] <Pergunta1.pdf, id=641, page=3, 844.15375pt x 1194.4625pt>
+>] <Pergunta1.pdf, id=639, page=3, 844.15375pt x 1194.4625pt>
 File: Pergunta1.pdf Graphic file (type pdf)
 
 <use Pergunta1.pdf, page 3>
@@ -1632,7 +1667,7 @@ Package pdftex.def Info: Pergunta1.pdf, page2 used on input line 171.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Pergunta1.pdf): PDF inclus
 ion: invalid other resource which is no dict (key 'ProcSets', type <array>); ig
 nored.
->] <Pergunta1.pdf, id=646, page=4, 844.15375pt x 1194.4625pt>
+>] <Pergunta1.pdf, id=644, page=4, 844.15375pt x 1194.4625pt>
 File: Pergunta1.pdf Graphic file (type pdf)
 
 <use Pergunta1.pdf, page 4>
@@ -1662,7 +1697,7 @@ Package pdftex.def Info: Pergunta1.pdf, page4 used on input line 171.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Pergunta1.pdf): PDF inclus
 ion: invalid other resource which is no dict (key 'ProcSets', type <array>); ig
 nored.
->] <img/categoriasmotivacao.png, id=655, 246.9225pt x 159.59625pt>
+>] <img/categoriasmotivacao.png, id=653, 246.9225pt x 159.59625pt>
 File: img/categoriasmotivacao.png Graphic file (type png)
 
 <use img/categoriasmotivacao.png>
@@ -1671,7 +1706,7 @@ Package pdftex.def Info: img/categoriasmotivacao.png used on input line 188.
 
 Underfull \vbox (badness 2027) has occurred while \output is active []
 
- [71 <./img/categoriasmotivacao.png>] <Pergunta2.pdf, id=662, 844.15375pt x 119
+ [71 <./img/categoriasmotivacao.png>] <Pergunta2.pdf, id=660, 844.15375pt x 119
 4.4625pt>
 File: Pergunta2.pdf Graphic file (type pdf)
 
@@ -1683,7 +1718,7 @@ File: Pergunta2.pdf Graphic file (type pdf)
 Package pdftex.def Info: Pergunta2.pdf used on input line 205.
 (pdftex.def)             Requested size: 844.15169pt x 1194.45958pt.
 
-<Pergunta2.pdf, id=665, page=1, 844.15375pt x 1194.4625pt>
+<Pergunta2.pdf, id=663, page=1, 844.15375pt x 1194.4625pt>
 File: Pergunta2.pdf Graphic file (type pdf)
 
 <use Pergunta2.pdf, page 1>
@@ -1703,7 +1738,7 @@ File: Pergunta2.pdf Graphic file (type pdf)
 Package pdftex.def Info: Pergunta2.pdf, page1 used on input line 205.
 (pdftex.def)             Requested size: 597.43413pt x 845.35864pt.
  [72]
-<Pergunta2.pdf, id=671, page=2, 844.15375pt x 1194.4625pt>
+<Pergunta2.pdf, id=669, page=2, 844.15375pt x 1194.4625pt>
 File: Pergunta2.pdf Graphic file (type pdf)
 
 <use Pergunta2.pdf, page 2>
@@ -1723,7 +1758,7 @@ Package pdftex.def Info: Pergunta2.pdf, page1 used on input line 205.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Pergunta2.pdf): PDF inclus
 ion: invalid other resource which is no dict (key 'ProcSets', type <array>); ig
 nored.
->] <Pergunta2.pdf, id=703, page=3, 844.15375pt x 1194.4625pt>
+>] <Pergunta2.pdf, id=701, page=3, 844.15375pt x 1194.4625pt>
 File: Pergunta2.pdf Graphic file (type pdf)
 
 <use Pergunta2.pdf, page 3>
@@ -1743,7 +1778,7 @@ Package pdftex.def Info: Pergunta2.pdf, page2 used on input line 205.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Pergunta2.pdf): PDF inclus
 ion: invalid other resource which is no dict (key 'ProcSets', type <array>); ig
 nored.
->] <Pergunta2.pdf, id=708, page=4, 844.15375pt x 1194.4625pt>
+>] <Pergunta2.pdf, id=706, page=4, 844.15375pt x 1194.4625pt>
 File: Pergunta2.pdf Graphic file (type pdf)
 
 <use Pergunta2.pdf, page 4>
@@ -1773,7 +1808,7 @@ Package pdftex.def Info: Pergunta2.pdf, page4 used on input line 205.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Pergunta2.pdf): PDF inclus
 ion: invalid other resource which is no dict (key 'ProcSets', type <array>); ig
 nored.
->] <img/categoriasmelhorias.png, id=717, 251.94125pt x 327.2225pt>
+>] <img/categoriasmelhorias.png, id=715, 251.94125pt x 327.2225pt>
 File: img/categoriasmelhorias.png Graphic file (type png)
 
 <use img/categoriasmelhorias.png>
@@ -1783,7 +1818,7 @@ Package pdftex.def Info: img/categoriasmelhorias.png used on input line 223.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [77]
-<Pergunta3.pdf, id=724, 844.15375pt x 1194.4625pt>
+<Pergunta3.pdf, id=722, 844.15375pt x 1194.4625pt>
 File: Pergunta3.pdf Graphic file (type pdf)
  <use Pergunta3.pdf>
 Package pdftex.def Info: Pergunta3.pdf used on input line 239.
@@ -1793,7 +1828,7 @@ File: Pergunta3.pdf Graphic file (type pdf)
 <use Pergunta3.pdf>
 Package pdftex.def Info: Pergunta3.pdf used on input line 239.
 (pdftex.def)             Requested size: 844.15169pt x 1194.45958pt.
- <Pergunta3.pdf, id=727, page=1, 844.15375pt x 1194.4625pt>
+ <Pergunta3.pdf, id=725, page=1, 844.15375pt x 1194.4625pt>
 File: Pergunta3.pdf Graphic file (type pdf)
 
 <use Pergunta3.pdf, page 1>
@@ -1812,7 +1847,7 @@ File: Pergunta3.pdf Graphic file (type pdf)
  <use Pergunta3.pdf, page 1>
 Package pdftex.def Info: Pergunta3.pdf, page1 used on input line 239.
 (pdftex.def)             Requested size: 597.43413pt x 845.35864pt.
- [78 <./img/categoriasmelhorias.png>] <Pergunta3.pdf, id=734, page=2, 844.15375
+ [78 <./img/categoriasmelhorias.png>] <Pergunta3.pdf, id=732, page=2, 844.15375
 pt x 1194.4625pt>
 File: Pergunta3.pdf Graphic file (type pdf)
 
@@ -1833,7 +1868,7 @@ Package pdftex.def Info: Pergunta3.pdf, page1 used on input line 239.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Pergunta3.pdf): PDF inclus
 ion: invalid other resource which is no dict (key 'ProcSets', type <array>); ig
 nored.
->] <Pergunta3.pdf, id=766, page=3, 844.15375pt x 1194.4625pt>
+>] <Pergunta3.pdf, id=764, page=3, 844.15375pt x 1194.4625pt>
 File: Pergunta3.pdf Graphic file (type pdf)
 
 <use Pergunta3.pdf, page 3>
@@ -1863,7 +1898,7 @@ Package pdftex.def Info: Pergunta3.pdf, page3 used on input line 239.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Pergunta3.pdf): PDF inclus
 ion: invalid other resource which is no dict (key 'ProcSets', type <array>); ig
 nored.
->] <img/categoriasnovidades.png, id=775, 252.945pt x 481.8pt>
+>] <img/categoriasnovidades.png, id=773, 252.945pt x 481.8pt>
 File: img/categoriasnovidades.png Graphic file (type png)
 
 <use img/categoriasnovidades.png>
@@ -1873,14 +1908,14 @@ Package pdftex.def Info: img/categoriasnovidades.png used on input line 251.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [82 <./img/categoriasnovidades.png>]
-<img/cursosbasicosswot.png, id=781, 502.87875pt x 502.87875pt>
+<img/cursosbasicosswot.png, id=779, 502.87875pt x 502.87875pt>
 File: img/cursosbasicosswot.png Graphic file (type png)
 
 <use img/cursosbasicosswot.png>
 Package pdftex.def Info: img/cursosbasicosswot.png used on input line 260.
 (pdftex.def)             Requested size: 377.15813pt x 377.15813pt.
  [83 <./img/cursosbasicosswot.png>] [84]
-<img/cursosintensivosswot.png, id=791, 499.8675pt x 502.87875pt>
+<img/cursosintensivosswot.png, id=789, 499.8675pt x 502.87875pt>
 File: img/cursosintensivosswot.png Graphic file (type png)
 
 <use img/cursosintensivosswot.png>
@@ -1891,7 +1926,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [85]
 [86 <./img/cursosintensivosswot.png>] [87]
-<img/oportunidadesfraquezasameacas.png, id=805, 1132.23pt x 649.42625pt>
+<img/oportunidadesfraquezasameacas.png, id=803, 1132.23pt x 649.42625pt>
 File: img/oportunidadesfraquezasameacas.png Graphic file (type png)
 
 <use img/oportunidadesfraquezasameacas.png>
@@ -1899,7 +1934,7 @@ Package pdftex.def Info: img/oportunidadesfraquezasameacas.png used on input li
 ne 321.
 (pdftex.def)             Requested size: 679.34325pt x 389.65875pt.
  [88 <./img/oportunidadesfraquezasameacas.png>]) (./propostas.tex
-<img/pontosselecionadospassivos.png, id=810, 298.11375pt x 211.79124pt>
+<img/pontosselecionadospassivos.png, id=808, 298.11375pt x 211.79124pt>
 File: img/pontosselecionadospassivos.png Graphic file (type png)
 
 <use img/pontosselecionadospassivos.png>
@@ -1911,7 +1946,7 @@ Package pdftex.def Info: img/pontosselecionadospassivos.png used on input line
 
 
  <./img/pontosselecionadospassivos.png>] <img/pontosselecionadoscursistas.png, 
-id=816, 581.17125pt x 516.93124pt>
+id=814, 581.17125pt x 516.93124pt>
 File: img/pontosselecionadoscursistas.png Graphic file (type png)
 
 <use img/pontosselecionadoscursistas.png>
@@ -1919,7 +1954,7 @@ Package pdftex.def Info: img/pontosselecionadoscursistas.png used on input line
  25.
 (pdftex.def)             Requested size: 435.87737pt x 387.69748pt.
  [90 <./img/pontosselecionadoscursistas.png>] <img/pontosselecionadosoperaciona
-is.png, id=821, 297.11pt x 168.63pt>
+is.png, id=819, 297.11pt x 168.63pt>
 File: img/pontosselecionadosoperacionais.png Graphic file (type png)
 
 <use img/pontosselecionadosoperacionais.png>
@@ -1927,7 +1962,7 @@ Package pdftex.def Info: img/pontosselecionadosoperacionais.png used on input l
 ine 34.
 (pdftex.def)             Requested size: 222.83194pt x 126.47218pt.
 
-<img/pontosselecionadosestrategicos.png, id=822, 298.11375pt x 168.63pt>
+<img/pontosselecionadosestrategicos.png, id=820, 298.11375pt x 168.63pt>
 File: img/pontosselecionadosestrategicos.png Graphic file (type png)
 
 <use img/pontosselecionadosestrategicos.png>
@@ -1935,7 +1970,7 @@ Package pdftex.def Info: img/pontosselecionadosestrategicos.png used on input l
 ine 43.
 (pdftex.def)             Requested size: 223.58476pt x 126.47218pt.
 
-<img/priorizacao.png, id=823, 312.16624pt x 161.60374pt>
+<img/priorizacao.png, id=821, 312.16624pt x 161.60374pt>
 File: img/priorizacao.png Graphic file (type png)
 
 <use img/priorizacao.png>
@@ -1949,7 +1984,7 @@ egicos.png>] [92 <./img/priorizacao.png>] [93]
 Underfull \vbox (badness 1286) has occurred while \output is active []
 
  [94]
-<img/institutosuniversidade.png, id=841, 754.82pt x 445.665pt>
+<img/institutosuniversidade.png, id=839, 754.82pt x 445.665pt>
 File: img/institutosuniversidade.png Graphic file (type png)
 
 <use img/institutosuniversidade.png>
@@ -1992,25 +2027,25 @@ AED: lastpage setting LastPage
 \tf@toc=\write7
 \openout7 = `index.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 291.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
  (./index.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 291.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 291.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 292.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 291.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 292.
  ) 
 Here is how much of TeX's memory you used:
- 18348 strings out of 493089
- 275743 string characters out of 6134843
- 436610 words of memory out of 5000000
- 21004 multiletter control sequences out of 15000+600000
+ 19151 strings out of 493089
+ 287376 string characters out of 6134843
+ 460127 words of memory out of 5000000
+ 21796 multiletter control sequences out of 15000+600000
  94078 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,18n,49p,1529b,651s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,18n,49p,1529b,699s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/20
 15/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/local/texlive/2015/texmf-
@@ -2025,10 +2060,10 @@ nts/type1/public/tex-gyre/qhvb.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/tex-gyre/qhvbi.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
 ublic/tex-gyre/qhvr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
 tex-gyre/qhvri.pfb>
-Output written on index.pdf (110 pages, 2554570 bytes).
+Output written on index.pdf (110 pages, 2554666 bytes).
 PDF statistics:
- 1243 PDF objects out of 1440 (max. 8388607)
- 1008 compressed objects within 11 object streams
- 296 named destinations out of 1000 (max. 500000)
- 28333 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 1238 PDF objects out of 1440 (max. 8388607)
+ 1003 compressed objects within 11 object streams
+ 295 named destinations out of 1000 (max. 500000)
+ 28325 words of extra memory for PDF output out of 29859 (max. 10000000)
 
