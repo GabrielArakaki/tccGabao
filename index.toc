@@ -33,7 +33,7 @@
 \contentsline {subsection}{\numberline {3.4.3}Alunos}{50}{subsection.3.4.3}
 \contentsline {subsection}{\numberline {3.4.4}Cursistas}{51}{subsection.3.4.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Analises}}{55}{chapter.4}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {An\IeC {\'a}lises}}{55}{chapter.4}
 \contentsline {section}{\numberline {4.1}Samsung}{55}{section.4.1}
 \contentsline {section}{\numberline {4.2}PRO}{57}{section.4.2}
 \contentsline {section}{\numberline {4.3}NEU}{59}{section.4.3}
@@ -41,7 +41,7 @@
 \contentsline {section}{\numberline {4.5}Cursistas}{62}{section.4.5}
 \contentsline {subsection}{\numberline {4.5.1}Cursos B\IeC {\'a}sicos}{62}{subsection.4.5.1}
 \contentsline {subsection}{\numberline {4.5.2}Cursos Intensivos}{83}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}An\IeC {\'a}lise Geral}{86}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}An\IeC {\'a}lise Geral}{86}{section.4.6}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Propostas}}{89}{chapter.5}
 \contentsline {section}{\numberline {5.1}An\IeC {\'a}lise das oportunidades, fraquezas e amea\IeC {\c c}as}{89}{section.5.1}
